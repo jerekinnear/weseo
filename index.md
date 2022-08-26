@@ -1,8 +1,7 @@
 ---
 title: WE SEO
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The
-  theme is fully responsive, blazing fast and artfully illustrated.
+description: De l'audit de votre site à l'application d'une stratégie de contenus
 intro_image: "/uploads/user-flow.gif"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
