@@ -1,7 +1,7 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Consultation gratuite",
+    "description": "La première consultation vous est offertes",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Résultats garantis",
+    "description": "Nous garantissons des résultats positifs dans les 3 mois",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Un suivi mensuel ",
+    "description": "Vous recevez tous les mois des rapports et vos résultats SEO.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
