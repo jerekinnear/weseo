@@ -1,7 +1,7 @@
 ---
-title: WE SEO votre consultants SEO en Valais.
+title: WESEO votre consultants SEO en Valais.
 layout: home
-description: We SEO est une agence spécialisée dans le référencement de site internet
+description: WESEO est une agence spécialisée dans le référencement de site internet
   en valais, et dans toute la suisse romande.
 intro_image: "/uploads/tabs.gif"
 intro_image_absolute: true
