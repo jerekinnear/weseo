@@ -1,9 +1,9 @@
 ---
-title: "Mergers"
-date: 2019-02-28T15:15:34+10:00
-weight: 3
----
+title: Création de contenus (CopyWriting)
+date: 2019-02-28T15:15:34.000+10:00
+weight: "3"
 
+---
 Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
 de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
 crimen habet Priamum nec.
