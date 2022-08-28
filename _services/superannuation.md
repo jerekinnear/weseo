@@ -1,7 +1,7 @@
 ---
-title: ON PAGE
+title: SEO ON PAGE
 date: 2019-03-28T15:14:54.000+10:00
-weight: "5"
+weight: "1"
 
 ---
 Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
