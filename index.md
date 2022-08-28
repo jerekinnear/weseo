@@ -4,7 +4,7 @@ layout: home
 description: WESEO est une agence spécialisée dans le référencement de site internet
   en valais, et dans toute la suisse romande.
 intro_image: "/uploads/tabs.gif"
-intro_image_absolute: true
+intro_image_absolute: false
 intro_image_hide_on_mobile: true
 show_call_box: true
 
