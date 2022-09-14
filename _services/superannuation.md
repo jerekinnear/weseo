@@ -4,7 +4,7 @@ date: 2019-03-28T15:14:54.000+10:00
 weight: "1"
 
 ---
-Le **SEO ON PAGE** regroupe l'ensemble des techniques pour optimiser le référencement de vos mots-clés sur votre site internet.
+Le **SEO ON PAGE** regroupe l'ensemble des techniques que nous utilisons afin d'optimiser le référencement de vos mots-clés sur votre site internet.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
