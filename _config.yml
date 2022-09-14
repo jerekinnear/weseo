@@ -7,7 +7,7 @@ logo:
   mobile_height: "32px"
   mobile_width: "32px"
   desktop: "images/logo/WESEO-LOGO.png"
-  desktop_height: "150px"
+  desktop_height: "300px"
   desktop_width: "100%"
 
 home: 
