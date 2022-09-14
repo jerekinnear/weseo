@@ -1,7 +1,7 @@
 ---
-title: About
+title: A propos
 layout: page
-description: About
+description: 'A propos de WESEO '
 bodyClass: page-about
 
 ---
