@@ -9,7 +9,7 @@ main:
     url: "/about/"
     weight: 4
   - name: "Nos tarifs"
-    url: "/nos-tarifs/"
+    url: "/"
     weight: 5
   - name: "Contact"
     url: "/contact/"
