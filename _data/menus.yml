@@ -8,9 +8,12 @@ main:
   - name: "A propos"
     url: "/about/"
     weight: 4
+  - name: "Nos tarifs"
+    url: "/nos-tarifs/"
+    weight: 5
   - name: "Contact"
     url: "/contact/"
-    weight: 5
+    weight: 6
 
 footer:
   - name: "Home"
