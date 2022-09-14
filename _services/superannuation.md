@@ -50,10 +50,6 @@ Un maillage simple dans vos contenus est intégrés, ceci permettant une meilleu
 
 Une nouvelle audit est établie pour les prochains mois en fonction des objectifs de la stratégie SEO.
 
-| Cash Inflow | Outflow | Opening Balance |
-| --- | --- | --- |
-| Monday | Tuesday | Wednesday |
-| 1 | 2 | 3 |
 
 **Exemple 1:** L'objectif de la stratégie est une augmentation du trafic de 5% sur la page /nos-abonnements pour le mois courant.
 
