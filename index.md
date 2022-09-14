@@ -11,4 +11,6 @@ show_call_box: true
 ---
 # Quand votre référencement devient facile.
 
-De l'audit de votre site à l'application d'une stratégie de contenus, **WESEO** s'occupe de tous.
+De l'audit de votre site à l'application d'une stratégie de contenus, **WESEO** s'occupe de tous.  
+  
+Le SEO regroupe l’ensemble **des techniques et des stratégies** à utiliser afin d’optimiser les résultats des moteurs de recherche renvoyant sur votre site. Il permet des gains naturels sur le référencement de votre site dans les classements des moteurs de recherche.
