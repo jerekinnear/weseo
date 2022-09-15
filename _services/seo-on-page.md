@@ -50,9 +50,8 @@ Un maillage simple dans vos contenus est intégrés, ceci permettant une meilleu
 
 Une nouvelle audit est établie pour les prochains mois en fonction des objectifs de la stratégie SEO.
 
-
 **Exemple 1:** L'objectif de la stratégie est une augmentation du trafic de 5% sur la page /nos-abonnements pour le mois courant.
 
 **Exemple 2:** L'objectif de la stratégie est une augmentation du trafic sur 3 mois d'un formulaire de contact et une page de landing.
 
-> **Important:** Les résultats ne sont pas quantifiables et demandera de nombreuses modifications de la stratégie.
+> **Important:** Les résultats ne sont pas quantifiables et demanderont de nombreuses modifications de la stratégie.
