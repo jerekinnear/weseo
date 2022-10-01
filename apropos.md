@@ -8,7 +8,7 @@ description: Découvrez qui nous-sommes et comment notre agence SEO positionnera
 bodyClass: page-about
 
 ---
-# Quand les passionnés du référencement Google rencontres votre Business.
+# Quand les passionnés du référencement Google rencontre votre Business.
 
 ## L'agence WESEO
 
