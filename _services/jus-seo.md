@@ -12,6 +12,6 @@ Le jus SEO représente l'ensemble des effets bénéfiques qu'un backlink peut ap
 
 Le jus SEO représente l'ensemble des effets bénéfiques qu'un backlink peut apporter au site vers lequel il pointe. **Si le site A dépose un backlink vers le site B et que ce même site A possède de bonnes métriques SEO alors on peut dire que A apporte un bon link juice au site B.**
 
-En exemple un site en .edu .org .gouv ou un média aura de base un meilleur jus SEO qu’un lien provenant d’un kebab sur votre site. Il faudra d'ailleurs étudier la qualité des liens entrants et ne pas hésiter à supprimer des liens toxiques.
-
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/YmGBT9drFEg?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+En exemple un site en .edu .org .gouv ou un média aura de base un meilleur jus SEO qu’un lien provenant d’un kebab sur votre site. Il faudra d'ailleurs étudier la qualité des liens entrants et ne pas hésiter à supprimer des liens toxiques.  
+  
+[https://youtu.be/YmGBT9drFEg](https://youtu.be/YmGBT9drFEg "https://youtu.be/YmGBT9drFEg")
