@@ -6,7 +6,7 @@ weight: "6"
 ---
 Le jus SEO représente l'ensemble des effets bénéfiques qu'un backlink peut apporter au site vers lequel il pointe.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![](/uploads/24521.png)
 
 # Objectifs
 
