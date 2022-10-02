@@ -1,7 +1,9 @@
 ---
 title: Services
 layout: services
-description: Services
+description: WESEO propose différents services autours du référencement de votre site
+  internet. Audits et stratégies de référencement, optimisation des liens de votre
+  site, optimisation des contenus.
 intro_image: "/uploads/analysis-amico-1.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
