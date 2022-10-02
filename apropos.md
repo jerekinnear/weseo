@@ -19,4 +19,4 @@ En 2022, internet est encore jeune mais plus innocent, Google a bien compris com
 
 Nous sommes devenus depuis 5 ans experts dans ses directives et consignes. Ce qui nous permet aujourd'hui de pouvoir communiqué avec ces robots.
 
-Nous imaginons avec vous la meilleure stratégie à des prix enfin raisonnables en fonction de la taille de votre business.
+Nous imaginons avec vous la meilleure stratégie à des prix enfin raisonnables et nous prenons en compte la taille de votre business.
