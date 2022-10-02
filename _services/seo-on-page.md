@@ -6,7 +6,7 @@ weight: "1"
 ---
 Le **SEO ON PAGE** regroupe l'ensemble des techniques que nous utilisons afin d'optimiser le référencement de vos mots-clés sur votre site internet.
 
-![](/uploads/seo-on-page.jpg)
+![](/uploads/research-paper-amico.svg)![](/uploads/research-paper-amico.svg)
 
 # Objectifs
 
