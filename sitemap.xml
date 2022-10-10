@@ -4,70 +4,69 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 
 <url>
   <loc>https://weseo.ch/</loc>
-  <lastmod>2022-09-14T10:09:43+00:00</lastmod>
+  <lastmod>2022-10-10T19:16:19+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://weseo.ch/services/</loc>
-  <lastmod>2022-09-14T10:09:43+00:00</lastmod>
+  <lastmod>2022-10-10T19:16:19+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://weseo.ch/team/</loc>
-  <lastmod>2022-09-14T10:09:43+00:00</lastmod>
+  <lastmod>2022-10-10T19:16:19+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://weseo.ch/about/</loc>
-  <lastmod>2022-09-14T10:09:43+00:00</lastmod>
+  <loc>https://weseo.ch/apropos/</loc>
+  <lastmod>2022-10-10T19:16:19+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://weseo.ch/contact/</loc>
-  <lastmod>2022-09-14T10:09:43+00:00</lastmod>
+  <lastmod>2022-10-10T19:16:19+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://weseo.ch/services/seo-on-page/</loc>
-  <lastmod>2022-09-14T10:09:43+00:00</lastmod>
+  <lastmod>2022-10-10T19:16:19+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://weseo.ch/services/seo-off-page/</loc>
-  <lastmod>2022-09-14T10:09:43+00:00</lastmod>
+  <lastmod>2022-10-10T19:16:19+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://weseo.ch/services/sea/</loc>
-  <lastmod>2022-09-14T10:09:43+00:00</lastmod>
+  <lastmod>2022-10-10T19:16:19+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://weseo.ch/services/maillage-et-ux/</loc>
-  <lastmod>2022-09-14T10:09:43+00:00</lastmod>
+  <lastmod>2022-10-10T19:16:19+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://weseo.ch/services/jus-seo/</loc>
-  <lastmod>2022-09-14T10:09:43+00:00</lastmod>
+  <lastmod>2022-10-10T19:16:19+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://weseo.ch/services/redaction-de-contenus/</loc>
-  <lastmod>2022-09-14T10:09:43+00:00</lastmod>
+  <lastmod>2022-10-10T19:16:19+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://weseo.ch/services/audits-et-strategies/</loc>
-  <lastmod>2022-09-14T10:09:43+00:00</lastmod>
+  <lastmod>2022-10-10T19:16:19+00:00</lastmod>
   <priority>0.64</priority>
 </url>
-
 
 
 </urlset>
